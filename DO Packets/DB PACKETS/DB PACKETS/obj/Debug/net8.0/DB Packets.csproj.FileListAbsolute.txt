@@ -1,0 +1,18 @@
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\obj\Debug\net8.0\DB Packets.csproj.AssemblyReference.cache
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\obj\Debug\net8.0\DB Packets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\obj\Debug\net8.0\DB Packets.AssemblyInfoInputs.cache
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\obj\Debug\net8.0\DB Packets.AssemblyInfo.cs
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\obj\Debug\net8.0\DB Packets.csproj.CoreCompileInputs.cache
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\bin\Debug\net8.0\DB Packets.exe
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\bin\Debug\net8.0\DB Packets.deps.json
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\bin\Debug\net8.0\DB Packets.runtimeconfig.json
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\bin\Debug\net8.0\DB Packets.dll
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\bin\Debug\net8.0\DB Packets.pdb
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\bin\Debug\net8.0\PacketDotNet.dll
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\bin\Debug\net8.0\SharpPcap.dll
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\obj\Debug\net8.0\DB Packets.csproj.Up2Date
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\obj\Debug\net8.0\DB Packets.dll
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\obj\Debug\net8.0\refint\DB Packets.dll
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\obj\Debug\net8.0\DB Packets.pdb
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\obj\Debug\net8.0\DB Packets.genruntimeconfig.cache
+C:\Users\jordi\Desktop\DO Packets\DB PACKETS\DB PACKETS\obj\Debug\net8.0\ref\DB Packets.dll
